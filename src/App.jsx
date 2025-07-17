@@ -1,8 +1,17 @@
+
 import Menu from "./Menu"
 
 function App() {
   return (
     <Menu />
+
+import React from 'react'
+import Content from './Content'
+
+const App = () => {
+  return (
+    <Content />
+
   )
 }
 
