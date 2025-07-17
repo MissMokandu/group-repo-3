@@ -19,7 +19,11 @@ import Content from './Content'
 
 const App = () => {
   return (
+
+    <Comments />
+
     <Content />
+
 
   )
 }
