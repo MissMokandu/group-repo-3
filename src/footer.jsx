@@ -1,6 +1,6 @@
-import React from 'react'
+import react from "react"
 
-const App = () => {
+const Footer = () => {
   return (
     <footer>
       <p>&copy; All rights reserved.</p>
@@ -8,4 +8,4 @@ const App = () => {
   )
 }
 
-export default App
+export default Footer
